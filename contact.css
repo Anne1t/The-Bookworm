@@ -1,0 +1,32 @@
+form{
+    width:35rem;
+    margin: auto;
+    color:whitesmoke;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.125);
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.185);
+    padding: 20px 25px;
+    margin-bottom: 100px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+input[type=mail], input[type=tel], input[type=text]{
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 15px 18px;
+    box-sizing: border-box;
+  } 
+
+  body 
+{
+  background: -webkit-linear-gradient(to right, #ffffff, #151a4e);  
+  background: linear-gradient(to right, #cdf3fa, #151a4e); 
+  color:whitesmoke;
+}

@@ -1,0 +1,33 @@
+.carousel {
+    transition: transform .2s;
+    /* Animation */
+  }
+  
+  .carousel:hover {
+    transform: scale(1.02);
+  }
+
+  .sms {
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(116, 114, 114);
+    transition: transform .2s;
+    /* Animation */
+  }
+
+  .sms:hover {
+    transform: scale(1.1);
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    color: rgb(255, 255, 255);
+  }
+
+  .more{
+    margin-top: 250px;
+  }
